@@ -1,7 +1,7 @@
-QUICK INSTALL
+QUICK INSTALL edited
 =============
 
-For the impatient, here is a basic outline of the
+For the inpatient, here is a basic outline of the
 installation process, which normally takes me only
 a few minutes:
 
